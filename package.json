@@ -1,0 +1,28 @@
+{
+  "name":"Stock",
+  "description": "Stock data",
+  "version": "0.1.0",
+  "private": true,
+  "author" :
+  {
+    "name" : "Hanks Ding" ,
+    "email" : "chloe88@qq.com"
+  },
+  "dependencies": {
+    "async":"latest",
+    "ejs": "0.8.4",
+    "express": "*",
+    "mongoose": "*",
+    "node-uuid": "1.4.0",
+    "request":"*",
+    "log": "*",
+    "underscore": "*",
+    "iconv-lite":"*",
+    "body-parser":"latest",
+    "express-session":"latest",
+    "connect-redis":"latest",
+    "morgan":"*"
+
+  }
+
+}
